@@ -1,4 +1,45 @@
-### Ciao [👋](https://pulver22.github.io/)
+# Ciao 👋 I'm Riccardo
 
-<a href="https://pulver22.github.io/"><img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=pulver22&count_private=true&include_all_commits=true&show_icons=true&theme=dracula"/></a>
-<a href="https://pulver22.github.io/"><img align="center" width="38.4760738255%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulver22&theme=dracula&layout=compact&langs_count=10&hide=html"/></a>
+Robotics & Autonomous Systems · Agricultural Robotics · Multi-Robot Intelligence  
+
+Senior Lecturer at the University of Lincoln (L-CAS).  
+I design robotic systems that operate reliably in complex outdoor environments — vineyards, orchards, and forests.
+
+---
+
+## 🌱 Research
+
+I explore how aerial and ground robots collaborate to achieve long-term autonomy under uncertainty and seasonal change.
+       
+**Focus areas**
+- Informative path planning  
+- UAV–UGV collaborative mapping  
+- Long-term localisation in visually aliased environments  
+- Sensor fusion for resilient autonomy  
+
+---
+
+## 🧑‍🏫 Teaching
+
+Hands-on robotics education through real robots, simulation, and reproducible development environments.  
+Supervisor of BSc, MSc, and PhD research.  
+Lead of student teams in international robotics competitions.
+
+---
+
+## 🛠 Tools
+
+ROS · ROS2 · Python · C++ · SLAM · Reinforcement Learning · Docker · GitHub Classroom  
+
+---
+
+## 🏔 Beyond Robotics
+
+Runner. Raised in the Italian Alps. Builder of ideas.  
+Interested in thoughtful collaboration and long-term impact.
+
+---
+
+## 📊 GitHub Stats
+
+![Metrics](https://raw.githubusercontent.com/pulver22/pulver22/main/github-metrics.svg)
