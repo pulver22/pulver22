@@ -37,9 +37,3 @@ ROS · ROS2 · Python · C++ · SLAM · Reinforcement Learning · Docker · GitH
 
 Runner. Raised in the Italian Alps. Builder of ideas.  
 Interested in thoughtful collaboration and long-term impact.
-
----
-
-## 📊 GitHub Stats
-
-![Metrics](https://raw.githubusercontent.com/pulver22/pulver22/main/github-metrics.svg)
